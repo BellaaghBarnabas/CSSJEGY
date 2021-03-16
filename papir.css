@@ -4,9 +4,10 @@ body{
 }
 
 
-#tab1{
+.tabcím{
     Width: 670px;
-    
+    border: none;
+    margin-right: 0 auto;
 }
 
 
